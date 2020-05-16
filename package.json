@@ -1,0 +1,15 @@
+{
+  "name": "ant4-diag",
+  "sideEffects": false,
+  "scripts": {
+    "build": "parcel build src/index.html"
+  },
+  "dependencies": {
+    "antd": "^4.2.2"
+  },
+  "devDependencies": {
+    "less": "^3.11.1",
+    "parcel": "^1.12.4",
+    "typescript": "^3.9.2"
+  }
+}
